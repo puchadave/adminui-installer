@@ -1,4 +1,4 @@
-<?php
+<?php    
 
 namespace AdminUI\AdminUIInstaller\Facades;
 
